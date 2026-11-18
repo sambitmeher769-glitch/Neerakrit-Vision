@@ -1,0 +1,147 @@
+[
+ {
+  "file": "assets/samples/s00.jpg",
+  "truth": "Peach___healthy",
+  "kind": "field"
+ },
+ {
+  "file": "assets/samples/s01.jpg",
+  "truth": "Apple___healthy",
+  "kind": "field"
+ },
+ {
+  "file": "assets/samples/s02.jpg",
+  "truth": "Strawberry___healthy",
+  "kind": "field"
+ },
+ {
+  "file": "assets/samples/s03.jpg",
+  "truth": "Tomato___Septoria_leaf_spot",
+  "kind": "field"
+ },
+ {
+  "file": "assets/samples/s04.jpg",
+  "truth": "Apple___Cedar_apple_rust",
+  "kind": "field"
+ },
+ {
+  "file": "assets/samples/s05.jpg",
+  "truth": "Raspberry___healthy",
+  "kind": "field"
+ },
+ {
+  "file": "assets/samples/s06.jpg",
+  "truth": "Blueberry___healthy",
+  "kind": "field"
+ },
+ {
+  "file": "assets/samples/s07.jpg",
+  "truth": "Grape___healthy",
+  "kind": "field"
+ },
+ {
+  "file": "assets/samples/s08.jpg",
+  "truth": "Tomato___Early_blight",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s09.jpg",
+  "truth": "Tomato___Late_blight",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s10.jpg",
+  "truth": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s11.jpg",
+  "truth": "Tomato___Tomato_mosaic_virus",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s12.jpg",
+  "truth": "Tomato___Spider_mites Two-spotted_spider_mite",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s13.jpg",
+  "truth": "Tomato___healthy",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s14.jpg",
+  "truth": "Potato___Late_blight",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s15.jpg",
+  "truth": "Potato___Early_blight",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s16.jpg",
+  "truth": "Corn_(maize)___Common_rust_",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s17.jpg",
+  "truth": "Grape___Black_rot",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s18.jpg",
+  "truth": "Grape___Esca_(Black_Measles)",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s19.jpg",
+  "truth": "Orange___Haunglongbing_(Citrus_greening)",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s20.jpg",
+  "truth": "Squash___Powdery_mildew",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s21.jpg",
+  "truth": "Strawberry___Leaf_scorch",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s22.jpg",
+  "truth": "Pepper,_bell___Bacterial_spot",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s23.jpg",
+  "truth": "Apple___Apple_scab",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s24.jpg",
+  "truth": "Peach___Bacterial_spot",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s25.jpg",
+  "truth": "Cherry_(including_sour)___Powdery_mildew",
+  "kind": "lab"
+ },
+ {
+  "file": "assets/samples/s26.jpg",
+  "truth": null,
+  "kind": "neg"
+ },
+ {
+  "file": "assets/samples/s27.jpg",
+  "truth": null,
+  "kind": "neg"
+ },
+ {
+  "file": "assets/samples/s28.jpg",
+  "truth": null,
+  "kind": "neg"
+ }
+]

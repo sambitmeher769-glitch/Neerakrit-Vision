@@ -1,0 +1,9 @@
+source,split,images
+ImageNet sample,test,300
+ImageNet sample,train,1577
+PlantDoc,test,236
+PlantDoc,train,2342
+PlantVillage,test,1520
+PlantVillage,train,18201
+Synthetic,test,50
+Synthetic,train,450

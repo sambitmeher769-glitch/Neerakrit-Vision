@@ -1,0 +1,86 @@
+{
+ "clemson_apple": [
+  "Clemson HGIC: Apple & crabapple diseases",
+  "https://hgic.clemson.edu/factsheet/apple-crabapple-diseases/"
+ ],
+ "ucipm_cherry": [
+  "UC IPM: Cherry powdery mildew",
+  "https://ipm.ucanr.edu/PMG/r105100411.html"
+ ],
+ "ncsu_corn": [
+  "NC State Extension: Major corn diseases",
+  "https://content.ces.ncsu.edu/major-corn-diseases-in-north-carolina"
+ ],
+ "isu_corn": [
+  "Iowa State: Applying fungicides to corn",
+  "https://crops.extension.iastate.edu/encyclopedia/applying-fungicides-corn-stop-look-consider"
+ ],
+ "psu_grape": [
+  "Penn State Extension: Grape black rot",
+  "https://extension.psu.edu/grape-disease-black-rot"
+ ],
+ "ucipm_esca": [
+  "UC IPM: Esca (black measles)",
+  "https://ipm.ucanr.edu/agriculture/grape/esca-black-measles/"
+ ],
+ "uky_grape": [
+  "Univ. of Kentucky: Leaf spots of grape",
+  "https://fruitscout.mgcafe.uky.edu/leaf-spots-grapes"
+ ],
+ "uf_hlb": [
+  "UF/IFAS CREC: Citrus in the HLB era",
+  "https://crec.ifas.ufl.edu/home-citrus/hlb-era/"
+ ],
+ "aces_peach": [
+  "Alabama Extension: Bacterial spot in peaches",
+  "https://www.aces.edu/blog/topics/crop-production/bacterial-spot-treatment-in-peaches/"
+ ],
+ "umn_bspot": [
+  "UMN Extension: Bacterial spot of tomato & pepper",
+  "https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper"
+ ],
+ "umn_eb": [
+  "UMN Extension: Early blight of tomato & potato",
+  "https://extension.umn.edu/disease-management/early-blight-tomato-and-potato"
+ ],
+ "umn_lb": [
+  "UMN Extension: Late blight",
+  "https://extension.umn.edu/disease-management/late-blight"
+ ],
+ "rutgers_tom": [
+  "Rutgers FS1124: Tomato leaf diseases",
+  "https://extension.rutgers.edu/fs1124"
+ ],
+ "umn_pm": [
+  "UMN Extension: Powdery mildew of cucurbits",
+  "https://extension.umn.edu/disease-management/powdery-mildew-cucurbits"
+ ],
+ "ncsu_straw": [
+  "NC State Extension: Leaf scorch of strawberry",
+  "https://content.ces.ncsu.edu/leaf-scorch-of-strawberry"
+ ],
+ "umn_mold": [
+  "UMN Extension: Tomato leaf mold",
+  "https://extension.umn.edu/disease-management/tomato-leaf-mold"
+ ],
+ "usu_mite": [
+  "Utah State: Two-spotted spider mite",
+  "https://extension.usu.edu/pests/ipm/notes_ag/veg-spider-mites"
+ ],
+ "pestnet_ts": [
+  "Pacific Pests & Pathogens: Tomato target spot",
+  "https://www.pestnet.org/fact_sheets/tomato_target_spot_163.htm"
+ ],
+ "ncsu_tylcv": [
+  "NC State Extension: Tomato yellow leaf curl virus",
+  "https://content.ces.ncsu.edu/tomato-yellow-leaf-curl-virus"
+ ],
+ "ncsu_tomv": [
+  "NC State Extension: Tobamoviruses of tomato",
+  "https://content.ces.ncsu.edu/tobamoviruses-that-affect-tomato-tmv-tomv-tobrfv"
+ ],
+ "general": [
+  "Neerakrit field rule: only CIB&RC-registered products, per label",
+  "https://ppqs.gov.in/divisions/cib-rc"
+ ]
+}

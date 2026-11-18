@@ -1,0 +1,910 @@
+{
+ "Apple___Apple_scab": {
+  "crop": "Apple",
+  "name": "Apple scab",
+  "pathogen": "Venturia inaequalis",
+  "type": "Fungus",
+  "symptoms": "Dark olive-green spots under ½ inch on leaves; badly hit leaves brown and drop.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide",
+   "actives": [
+    "Captan",
+    "Sulfur"
+   ],
+   "organic": [
+    "Sulfur"
+   ]
+  },
+  "cultural": [
+   "Rake up and destroy fallen leaves",
+   "Plant scab-resistant varieties"
+  ],
+  "nutrition": "No fertiliser spray treats scab. Avoid heavy nitrogen that keeps leaves soft and wet longer.",
+  "src": [
+   "clemson_apple"
+  ]
+ },
+ "Apple___Black_rot": {
+  "crop": "Apple",
+  "name": "Black rot (frogeye leaf spot)",
+  "pathogen": "Botryosphaeria obtusa",
+  "type": "Fungus",
+  "symptoms": "Purple speck that grows into a tan centre with a dark ring, like a frog's eye.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide",
+   "actives": [
+    "Captan (early, at regular intervals)"
+   ],
+   "organic": []
+  },
+  "cultural": [
+   "Prune out dead wood",
+   "Remove mummified fruit where the fungus overwinters"
+  ],
+  "nutrition": "Not a nutrient problem. Keep trees vigorous with balanced feeding.",
+  "src": [
+   "clemson_apple"
+  ]
+ },
+ "Apple___Cedar_apple_rust": {
+  "crop": "Apple",
+  "name": "Cedar apple rust",
+  "pathogen": "Gymnosporangium spp.",
+  "type": "Fungus",
+  "symptoms": "Raised bright orange-yellow spots on leaves.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide",
+   "actives": [
+    "Myclobutanil",
+    "Sulfur"
+   ],
+   "organic": [
+    "Sulfur"
+   ]
+  },
+  "cultural": [
+   "Remove nearby red cedar or juniper galls",
+   "Plant resistant varieties"
+  ],
+  "nutrition": "Not a nutrient problem.",
+  "src": [
+   "clemson_apple"
+  ]
+ },
+ "Apple___healthy": {
+  "crop": "Apple",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Blueberry___healthy": {
+  "crop": "Blueberry",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Cherry_(including_sour)___Powdery_mildew": {
+  "crop": "Cherry",
+  "name": "Powdery mildew",
+  "pathogen": "Podosphaera clandestina",
+  "type": "Fungus",
+  "symptoms": "White, web-like powdery growth on young leaves and shoots.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide",
+   "actives": [
+    "Wettable sulfur",
+    "Myclobutanil or tebuconazole (FRAC 3)",
+    "Azoxystrobin (FRAC 11)"
+   ],
+   "organic": [
+    "Wettable sulfur",
+    "Potassium bicarbonate"
+   ]
+  },
+  "cultural": [
+   "Spray soon after petal fall, again 2–3 weeks later if needed",
+   "Do not use the same chemistry more than twice a year"
+  ],
+  "nutrition": "Avoid excess nitrogen; flushes of new growth are the most susceptible.",
+  "src": [
+   "ucipm_cherry"
+  ]
+ },
+ "Cherry_(including_sour)___healthy": {
+  "crop": "Cherry",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+  "crop": "Maize",
+  "name": "Gray leaf spot",
+  "pathogen": "Cercospora zeae-maydis",
+  "type": "Fungus",
+  "symptoms": "Narrow grey to tan rectangular lesions bounded by leaf veins; can merge into blight.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide (only if it is moving up the plant near tasselling)",
+   "actives": [
+    "Strobilurin (QoI)",
+    "Triazole (DMI)",
+    "QoI + DMI premix"
+   ],
+   "organic": []
+  },
+  "cultural": [
+   "Rotate away from maize",
+   "Bury or manage infected residue",
+   "Use resistant hybrids"
+  ],
+  "nutrition": "Not a nutrient problem. Balanced N and K keep the canopy healthy.",
+  "src": [
+   "ncsu_corn",
+   "isu_corn"
+  ]
+ },
+ "Corn_(maize)___Common_rust_": {
+  "crop": "Maize",
+  "name": "Common rust",
+  "pathogen": "Puccinia sorghi",
+  "type": "Fungus",
+  "symptoms": "Reddish-brown powdery pustules scattered on both leaf surfaces.",
+  "action": "MONITOR",
+  "product": {
+   "kind": "Fungicide rarely pays",
+   "actives": [
+    "Only if severe on a susceptible hybrid: QoI or DMI"
+   ],
+   "organic": []
+  },
+  "cultural": [
+   "Grow resistant hybrids (widely available)",
+   "Losses are usually small"
+  ],
+  "nutrition": "No fertiliser spray needed.",
+  "src": [
+   "ncsu_corn",
+   "isu_corn"
+  ]
+ },
+ "Corn_(maize)___Northern_Leaf_Blight": {
+  "crop": "Maize",
+  "name": "Northern leaf blight",
+  "pathogen": "Exserohilum turcicum",
+  "type": "Fungus",
+  "symptoms": "Long cigar-shaped grey-green to tan lesions, 1–6 inches, starting on lower leaves.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide (when lesions reach the ear leaf before grain fill)",
+   "actives": [
+    "Strobilurin (QoI)",
+    "Triazole (DMI)"
+   ],
+   "organic": []
+  },
+  "cultural": [
+   "Rotate crops",
+   "Destroy crop debris",
+   "Use resistant hybrids"
+  ],
+  "nutrition": "Not a nutrient problem.",
+  "src": [
+   "ncsu_corn",
+   "isu_corn"
+  ]
+ },
+ "Corn_(maize)___healthy": {
+  "crop": "Maize",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Grape___Black_rot": {
+  "crop": "Grape",
+  "name": "Black rot",
+  "pathogen": "Guignardia bidwellii",
+  "type": "Fungus",
+  "symptoms": "Reddish-brown round leaf spots with a ring of tiny black dots inside a dark border.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide (protect from bloom until berries colour)",
+   "actives": [
+    "Mancozeb or captan (protectant)",
+    "Myclobutanil (DMI)"
+   ],
+   "organic": []
+  },
+  "cultural": [
+   "Remove mummified berries and infected prunings before spring",
+   "Plant resistant varieties"
+  ],
+  "nutrition": "Not a nutrient problem.",
+  "src": [
+   "psu_grape"
+  ]
+ },
+ "Grape___Esca_(Black_Measles)": {
+  "crop": "Grape",
+  "name": "Esca (black measles)",
+  "pathogen": "Phaeomoniella / Phaeoacremonium (wood fungi)",
+  "type": "Fungus (trunk)",
+  "symptoms": "Tiger-stripe yellow or red bands between the veins, drying to brown.",
+  "action": "MONITOR",
+  "product": {
+   "kind": "Leaf spray will not help",
+   "actives": [
+    "Wood infection cannot be eradicated by fungicide"
+   ],
+   "organic": []
+  },
+  "cultural": [
+   "Prune in dry weather",
+   "Protect large pruning wounds",
+   "Mark and track affected vines"
+  ],
+  "nutrition": "No fertiliser spray treats esca.",
+  "src": [
+   "ucipm_esca"
+  ]
+ },
+ "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+  "crop": "Grape",
+  "name": "Leaf blight (Isariopsis leaf spot)",
+  "pathogen": "Pseudocercospora vitis",
+  "type": "Fungus",
+  "symptoms": "Dark brown irregular spots on older leaves.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide (usually covered by the routine programme)",
+   "actives": [
+    "Protectant used for main grape diseases (e.g. mancozeb)"
+   ],
+   "organic": [
+    "Copper"
+   ]
+  },
+  "cultural": [
+   "Improve airflow by pruning and thinning",
+   "Control weeds"
+  ],
+  "nutrition": "Keep vines vigorous with balanced feeding.",
+  "src": [
+   "uky_grape"
+  ]
+ },
+ "Grape___healthy": {
+  "crop": "Grape",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Orange___Haunglongbing_(Citrus_greening)": {
+  "crop": "Citrus",
+  "name": "Citrus greening (HLB)",
+  "pathogen": "Candidatus Liberibacter (bacterium), spread by Asian citrus psyllid",
+  "type": "Bacterium (vector-borne)",
+  "symptoms": "Blotchy, uneven yellow mottle across the leaf; yellow or corky veins.",
+  "action": "VECTOR",
+  "product": {
+   "kind": "No cure. Control the psyllid vector",
+   "actives": [
+    "Horticultural or neem oil",
+    "Labelled insecticide for psyllids"
+   ],
+   "organic": [
+    "Horticultural oil",
+    "Neem oil"
+   ]
+  },
+  "cultural": [
+   "Remove infected trees to stop spread",
+   "Plant certified disease-free nursery stock"
+  ],
+  "nutrition": "Good tree care may prolong life but does not cure the tree.",
+  "src": [
+   "uf_hlb"
+  ]
+ },
+ "Peach___Bacterial_spot": {
+  "crop": "Peach",
+  "name": "Bacterial spot",
+  "pathogen": "Xanthomonas arboricola pv. pruni",
+  "type": "Bacterium",
+  "symptoms": "Small angular water-soaked spots turning reddish-brown to black; centres fall out.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Bactericide (preventive, not curative)",
+   "actives": [
+    "Copper (dormant through summer, per label)"
+   ],
+   "organic": [
+    "Copper"
+   ]
+  },
+  "cultural": [
+   "Prune for airflow",
+   "Choose less susceptible varieties"
+  ],
+  "nutrition": "Fertilise to recommendation; stressed trees suffer more.",
+  "src": [
+   "aces_peach"
+  ]
+ },
+ "Peach___healthy": {
+  "crop": "Peach",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Pepper,_bell___Bacterial_spot": {
+  "crop": "Bell pepper",
+  "name": "Bacterial spot",
+  "pathogen": "Xanthomonas spp.",
+  "type": "Bacterium",
+  "symptoms": "Small brown spots without yellow halos; scabby raised spots on fruit.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Bactericide (limited options; copper resistance is common)",
+   "actives": [
+    "Copper",
+    "Copper + mancozeb tank mix"
+   ],
+   "organic": [
+    "Copper"
+   ]
+  },
+  "cultural": [
+   "Use clean or hot-water-treated seed",
+   "No overhead watering; don't work wet plants",
+   "Rotate away from pepper and tomato"
+  ],
+  "nutrition": "No fertiliser spray treats it.",
+  "src": [
+   "umn_bspot"
+  ]
+ },
+ "Pepper,_bell___healthy": {
+  "crop": "Bell pepper",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Potato___Early_blight": {
+  "crop": "Potato",
+  "name": "Early blight",
+  "pathogen": "Alternaria solani",
+  "type": "Fungus",
+  "symptoms": "Brown spots with target-like rings on older leaves, often with a yellow halo.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide",
+   "actives": [
+    "Chlorothalonil",
+    "Mancozeb",
+    "Rotate chemical families"
+   ],
+   "organic": [
+    "Copper"
+   ]
+  },
+  "cultural": [
+   "Rotate out of potato and tomato for 2+ years",
+   "Remove infected leaves and debris"
+  ],
+  "nutrition": "Keep nitrogen and phosphorus adequate; avoid excess potassium. Weak, under-fed plants get it worse.",
+  "src": [
+   "umn_eb",
+   "rutgers_tom"
+  ]
+ },
+ "Potato___Late_blight": {
+  "crop": "Potato",
+  "name": "Late blight",
+  "pathogen": "Phytophthora infestans (water mould)",
+  "type": "Oomycete",
+  "symptoms": "Large dark blotches with a grey-green edge, not limited by veins; can brown a field in days.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide labelled for water moulds (urgent)",
+   "actives": [
+    "Mancozeb",
+    "Chlorothalonil",
+    "Rotate or tank-mix to avoid resistance"
+   ],
+   "organic": [
+    "Copper"
+   ]
+  },
+  "cultural": [
+   "Remove and destroy infected plants at once",
+   "Plant certified seed tubers",
+   "Destroy cull piles"
+  ],
+  "nutrition": "No fertiliser spray stops it.",
+  "src": [
+   "umn_lb",
+   "rutgers_tom"
+  ]
+ },
+ "Potato___healthy": {
+  "crop": "Potato",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Raspberry___healthy": {
+  "crop": "Raspberry",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Soybean___healthy": {
+  "crop": "Soybean",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Squash___Powdery_mildew": {
+  "crop": "Squash",
+  "name": "Powdery mildew",
+  "pathogen": "Podosphaera xanthii",
+  "type": "Fungus",
+  "symptoms": "White powdery patches on both leaf surfaces after pale yellow spots.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide (start at first sighting)",
+   "actives": [
+    "Rotate labelled fungicide groups"
+   ],
+   "organic": [
+    "Sulfur",
+    "Potassium bicarbonate"
+   ]
+  },
+  "cultural": [
+   "Start when about 1 in 50 scouted leaves is infected",
+   "Plant resistant varieties",
+   "Space for airflow"
+  ],
+  "nutrition": "Fertilise to soil test and avoid excess nitrogen.",
+  "src": [
+   "umn_pm"
+  ]
+ },
+ "Strawberry___Leaf_scorch": {
+  "crop": "Strawberry",
+  "name": "Leaf scorch",
+  "pathogen": "Diplocarpon earlianum",
+  "type": "Fungus",
+  "symptoms": "Irregular dark purple spots like drops of tar; leaves brown and curl at the edges.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide (bloom, late summer and autumn)",
+   "actives": [
+    "Labelled protectant (e.g. captan)"
+   ],
+   "organic": []
+  },
+  "cultural": [
+   "Drip, not overhead irrigation",
+   "Remove old foliage after renovation",
+   "Use resistant cultivars"
+  ],
+  "nutrition": "Avoid spring nitrogen.",
+  "src": [
+   "ncsu_straw"
+  ]
+ },
+ "Strawberry___healthy": {
+  "crop": "Strawberry",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ },
+ "Tomato___Bacterial_spot": {
+  "crop": "Tomato",
+  "name": "Bacterial spot",
+  "pathogen": "Xanthomonas spp.",
+  "type": "Bacterium",
+  "symptoms": "Small brown spots with yellow halos; centres often drop out leaving holes.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Bactericide (limited; copper resistance is common)",
+   "actives": [
+    "Copper",
+    "Copper + mancozeb tank mix"
+   ],
+   "organic": [
+    "Copper"
+   ]
+  },
+  "cultural": [
+   "Use clean seed and transplants",
+   "No overhead watering",
+   "Disinfect tools"
+  ],
+  "nutrition": "No fertiliser spray treats it.",
+  "src": [
+   "umn_bspot"
+  ]
+ },
+ "Tomato___Early_blight": {
+  "crop": "Tomato",
+  "name": "Early blight",
+  "pathogen": "Alternaria tomatophila / A. solani",
+  "type": "Fungus",
+  "symptoms": "Brown spots with target-like rings on lower leaves, ringed with yellow.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide",
+   "actives": [
+    "Chlorothalonil",
+    "Mancozeb"
+   ],
+   "organic": [
+    "Copper"
+   ]
+  },
+  "cultural": [
+   "Mulch and water at the base",
+   "Stake and prune for airflow",
+   "Rotate 2+ years"
+  ],
+  "nutrition": "Keep N and P adequate; avoid excess potassium.",
+  "src": [
+   "umn_eb",
+   "rutgers_tom"
+  ]
+ },
+ "Tomato___Late_blight": {
+  "crop": "Tomato",
+  "name": "Late blight",
+  "pathogen": "Phytophthora infestans (water mould)",
+  "type": "Oomycete",
+  "symptoms": "Large dark brown blotches with a grey-green edge; plants can collapse in cool wet weather.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide labelled for water moulds (urgent)",
+   "actives": [
+    "Chlorothalonil",
+    "Mancozeb"
+   ],
+   "organic": [
+    "Copper"
+   ]
+  },
+  "cultural": [
+   "Remove infected plants immediately",
+   "Inspect transplants",
+   "Keep foliage dry"
+  ],
+  "nutrition": "No fertiliser spray stops it.",
+  "src": [
+   "umn_lb",
+   "rutgers_tom"
+  ]
+ },
+ "Tomato___Leaf_Mold": {
+  "crop": "Tomato",
+  "name": "Leaf mold",
+  "pathogen": "Passalora fulva",
+  "type": "Fungus",
+  "symptoms": "Pale yellow spots on top of the leaf, olive-green velvety mould underneath.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide (before infection when humidity is high)",
+   "actives": [
+    "Rotate labelled fungicide groups"
+   ],
+   "organic": [
+    "Copper hydroxide"
+   ]
+  },
+  "cultural": [
+   "Vent and fan greenhouses; keep humidity under 85%",
+   "Drip irrigation",
+   "Prune lower leaves"
+  ],
+  "nutrition": "Not a nutrient problem.",
+  "src": [
+   "umn_mold"
+  ]
+ },
+ "Tomato___Septoria_leaf_spot": {
+  "crop": "Tomato",
+  "name": "Septoria leaf spot",
+  "pathogen": "Septoria lycopersici",
+  "type": "Fungus",
+  "symptoms": "Many small round spots with grey centres and dark edges on lower leaves.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide",
+   "actives": [
+    "Chlorothalonil",
+    "Mancozeb"
+   ],
+   "organic": [
+    "Copper"
+   ]
+  },
+  "cultural": [
+   "Remove infected lower leaves",
+   "Water at the base in the morning",
+   "Rotate crops"
+  ],
+  "nutrition": "Not a nutrient problem.",
+  "src": [
+   "rutgers_tom"
+  ]
+ },
+ "Tomato___Spider_mites Two-spotted_spider_mite": {
+  "crop": "Tomato",
+  "name": "Two-spotted spider mite",
+  "pathogen": "Tetranychus urticae (mite pest)",
+  "type": "Mite",
+  "symptoms": "Fine yellow stippling, bronzing and webbing; tiny moving dots under leaves.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Miticide spot-spray on hotspots",
+   "actives": [
+    "Labelled miticide; spray leaf undersides"
+   ],
+   "organic": [
+    "Insecticidal soap"
+   ]
+  },
+  "cultural": [
+   "Hose mites off with a strong water jet",
+   "Avoid pyrethroids and malathion, which flare mites",
+   "Conserve predatory mites"
+  ],
+  "nutrition": "Water-stressed plants suffer more: irrigate in hot, dry spells.",
+  "src": [
+   "usu_mite"
+  ]
+ },
+ "Tomato___Target_Spot": {
+  "crop": "Tomato",
+  "name": "Target spot",
+  "pathogen": "Corynespora cassiicola",
+  "type": "Fungus",
+  "symptoms": "Brown spots with light centres and concentric rings, larger than early blight's.",
+  "action": "SPRAY",
+  "product": {
+   "kind": "Fungicide",
+   "actives": [
+    "Chlorothalonil",
+    "Azoxystrobin (rotate)"
+   ],
+   "organic": [
+    "Copper"
+   ]
+  },
+  "cultural": [
+   "Remove lower infected leaves",
+   "Improve airflow",
+   "Destroy crop debris"
+  ],
+  "nutrition": "Not a nutrient problem.",
+  "src": [
+   "pestnet_ts"
+  ]
+ },
+ "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+  "crop": "Tomato",
+  "name": "Yellow leaf curl virus",
+  "pathogen": "TYLCV, spread by whitefly (Bemisia tabaci)",
+  "type": "Virus (vector-borne)",
+  "symptoms": "Young leaves yellow, curl and crumple; plants stunted and bushy.",
+  "action": "VECTOR",
+  "product": {
+   "kind": "No cure. Remove plants, control whitefly",
+   "actives": [
+    "Rotate labelled whitefly insecticides"
+   ],
+   "organic": [
+    "Neem",
+    "Insecticidal soap"
+   ]
+  },
+  "cultural": [
+   "Pull and destroy infected plants",
+   "Yellow sticky traps, reflective mulch",
+   "Resistant varieties"
+  ],
+  "nutrition": "Fertiliser will not cure a virus.",
+  "src": [
+   "ncsu_tylcv"
+  ]
+ },
+ "Tomato___Tomato_mosaic_virus": {
+  "crop": "Tomato",
+  "name": "Mosaic virus",
+  "pathogen": "ToMV (spread by hands, tools, seed)",
+  "type": "Virus",
+  "symptoms": "Light and dark green mosaic mottling; distorted new leaves.",
+  "action": "REMOVE",
+  "product": {
+   "kind": "No chemical treatment exists",
+   "actives": [
+    "None"
+   ],
+   "organic": []
+  },
+  "cultural": [
+   "Remove infected plants",
+   "Sanitise tools and hands",
+   "Use Tm-2² resistant varieties"
+  ],
+  "nutrition": "Fertiliser will not cure a virus.",
+  "src": [
+   "ncsu_tomv"
+  ]
+ },
+ "Tomato___healthy": {
+  "crop": "Tomato",
+  "name": "Healthy",
+  "healthy": true,
+  "pathogen": "None detected",
+  "type": "Healthy leaf",
+  "symptoms": "Uniform colour, no spots, lesions, mould or curling seen by the model.",
+  "action": "NONE",
+  "product": null,
+  "cultural": [
+   "Keep scouting twice a week",
+   "Water at the base, keep foliage dry",
+   "Remove weeds that host pests"
+  ],
+  "nutrition": "No fertiliser spray needed for disease. Keep soil-test-based NPK; avoid excess nitrogen, which makes soft growth that leaf diseases like.",
+  "src": [
+   "general"
+  ]
+ }
+}
